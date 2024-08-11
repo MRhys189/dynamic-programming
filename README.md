@@ -24,3 +24,14 @@ The number of nodes roughly represents the time complexity
 We use memoization strategy - store info in a hashed data structure (hashmap, dictionary...etcm ). Use a data structure that gives an O(1) lookup time
 In recursion, there may be duplication of results. We thus store the results. This is memoization
 The keys are usually the changing arguments of your recursion problem.
+
+## DSA
+- Java access modifiers are used to provide access control in java. Java provides access control through three keywords - **private, protected and public.** - *We are not required to use these access modifiers always*, so we have another one namely “default access”, “package-private” or “no modifier”.
+- Java classes can only use 2 access modifiers:
+    1. public
+    2. default access: can only be accessed only from other classes in the ***same package***.
+
+### Useful links
+1. Access modifiers:
+    - https://www.digitalocean.com/community/tutorials/java-access-modifiers
+    - 
