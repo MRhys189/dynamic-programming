@@ -35,3 +35,8 @@ The keys are usually the changing arguments of your recursion problem.
 1. Access modifiers:
     - https://www.digitalocean.com/community/tutorials/java-access-modifiers
     - 
+
+2. Java is a statically-typed language, which means that the type of a variable is known at compile-time. Assigning a value to a name is referred to as defining a variable. A variable is defined by explicitly specifying its type.
+3. A function within a class is referred to as a method. Each method can have zero or more parameters. All parameters must be explicitly typed, there is no type inference for parameters. Similarly, the return type must also be made explicit. Values are returned from methods using the return keyword. To allow a method to be called by other classes, the public access modifier must be added.
+4. Use Scanner.hasNext() to read *n* lines of input until you reach EOF
+5. Use Scanner.nextLine() to read each line
