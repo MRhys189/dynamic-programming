@@ -40,3 +40,9 @@ The keys are usually the changing arguments of your recursion problem.
 3. A function within a class is referred to as a method. Each method can have zero or more parameters. All parameters must be explicitly typed, there is no type inference for parameters. Similarly, the return type must also be made explicit. Values are returned from methods using the return keyword. To allow a method to be called by other classes, the public access modifier must be added.
 4. Use Scanner.hasNext() to read *n* lines of input until you reach EOF
 5. Use Scanner.nextLine() to read each line
+6. String.valueOf(int) to convert int to str
+
+## Regex Patterns
+[abc]	Find one character from the options between the brackets
+[^abc]	Find one character NOT between the brackets
+[0-9]	Find one character from the range 0 to 9
